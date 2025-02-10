@@ -1,11 +1,16 @@
 {
-  "name": "wot-design-uni",
+  "name": "@mrmcree/wot-design-uni",
   "version": "1.6.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moonofweisheng/wot-design-uni.git"
+    "url": "https://github.com/mrmcree/wot-design-uni.git"
   },
+  "bugs": {
+    "url": "https://github.com/mrmcree/wot-design-uni/issues"
+},
+"homepage": "https://github.com/mrmcree/wot-design-uni#readme",
+  "author": "mrmcree",
   "scripts": {
     "dev:app": "uni -p app",
     "dev:app-android": "uni -p app-android",
